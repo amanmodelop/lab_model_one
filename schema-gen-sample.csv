@@ -1,0 +1,11 @@
+﻿id,duration_months,credit_amount,installment_rate,present_residence_since,age_years,number_existing_credits,checking_status,credit_history,purpose,savings_account,present_employment_since,debtors_guarantors,property,installment_plans,housing,job,number_people_liable,telephone,foreign_worker,gender,label,score
+0,6,1169,4,4,67,2,A11,A34,A43,A65,A75,A101,A121,A143,A152,A173,1,A192,A201,male,0,0
+1,48,5951,2,2,22,1,A12,A32,A43,A61,A73,A101,A121,A143,A152,A173,1,A191,A201,female,1,1
+2,12,2096,2,3,49,1,A14,A34,A46,A61,A74,A101,A121,A143,A152,A172,2,A191,A201,male,0,0
+3,42,7882,2,4,45,1,A11,A32,A42,A61,A74,A103,A122,A143,A153,A173,2,A191,A201,male,0,0
+4,24,4870,3,4,53,2,A11,A33,A40,A61,A73,A101,A124,A143,A153,A173,2,A191,A201,male,1,1
+5,36,9055,2,4,35,1,A14,A32,A46,A65,A73,A101,A124,A143,A153,A172,2,A192,A201,male,0,0
+6,24,2835,3,4,53,1,A14,A32,A42,A63,A75,A101,A122,A143,A152,A173,1,A191,A201,male,0,0
+7,36,6948,2,2,35,1,A12,A32,A41,A61,A73,A101,A123,A143,A151,A174,1,A192,A201,male,0,0
+8,12,3059,2,4,61,1,A14,A32,A43,A64,A74,A101,A121,A143,A152,A172,1,A191,A201,male,0,0
+9,30,5234,4,2,28,2,A12,A34,A40,A61,A71,A101,A123,A143,A152,A174,1,A191,A201,male,1,1
